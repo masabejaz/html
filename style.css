@@ -1,0 +1,41 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: #719da9;
+}
+
+* {
+    margin: 0%;
+    padding: 0%;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+header {
+    background-color: #13481ec1;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+nav {
+
+}
+
+ul {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style-type: none;
+    line-height: 40px;
+
+}
+
+a {
+    color: #fff;
+    font-size: 18px;
+    text-transform: lowercase;
+    padding: 0 10px;
+}
